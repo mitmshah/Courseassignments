@@ -6,4 +6,4 @@ This contains the codes to the assignment for different course listed below
 2. Machine Learning MOOC course by Andrew NG on coursera
 
 
-The assignments are in the respective folders 
+The assignments for the courses are in the respective folders 
