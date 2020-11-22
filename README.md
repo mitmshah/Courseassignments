@@ -1,7 +1,7 @@
 # Courseassignments
 
 
-This contains the codes to the assignment for different course listed below
+This contains the codes to the assignments that I completed for different course on Coursera. Courses are as listed below
 1. Deep learning.ai specialization by Andrew NG on coursera
   a. Neural Network and Deep learning
   b. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
