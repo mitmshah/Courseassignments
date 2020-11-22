@@ -9,7 +9,7 @@ This contains the codes to the assignments that I completed for different course
   d. Sequence models
 2. Machine Learning MOOC course by Andrew NG on coursera
 3. Reinforcement Learning specialization
-4. Pytorch by IBM
+4. Deep Neural Network with Pytorch [by IBM]
 5. Generative adversarial Networks [GANs] specialization
 
 
